@@ -1,0 +1,20 @@
+
+Nghiem thu 1 la: 1   3   5   2   4   
+
+Nghiem thu 2 la: 1   4   2   5   3   
+
+Nghiem thu 3 la: 2   4   1   3   5   
+
+Nghiem thu 4 la: 2   5   3   1   4   
+
+Nghiem thu 5 la: 3   1   4   2   5   
+
+Nghiem thu 6 la: 3   5   2   4   1   
+
+Nghiem thu 7 la: 4   1   3   5   2   
+
+Nghiem thu 8 la: 4   2   5   3   1   
+
+Nghiem thu 9 la: 5   2   4   1   3   
+
+Nghiem thu 10 la: 5   3   1   4   2   
